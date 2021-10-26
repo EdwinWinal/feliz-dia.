@@ -1,0 +1,33 @@
+body{
+    background: url(file:///C:/Users/Admin/Downloads/fondojoselin.jpg) #CCC no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;   }
+h1 {
+
+color: #FCDB00;
+font-family: impact;
+font-size: 46px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #FFFFFF ;
+-webkit-text-stroke: 3px black;   }
+h2 {
+
+color: #FCDB00;
+font-family: impact;
+font-size: 35px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #FFFFFF ;
+-webkit-text-stroke: 3px black;   }
+.let{
+	color: #FCDB00;
+font-family: impact;
+font-size: 35px;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+-webkit-text-fill-color: #FFFFFF ;
+-webkit-text-stroke: 3px black; 
+}
